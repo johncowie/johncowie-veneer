@@ -1,0 +1,11 @@
+{:1
+ {:title "First post"
+ :date "2013-12-02"
+ :content "Oh hi guys this is my first post.  Once upon a time there a thing and then there was another thing and then those two things met up and made another thing and then these three things came together and ate a load of things"
+ }
+ :2
+ {:title "Post 2"
+ :date "2013-12-03"
+ :content "The rain in spain falls mainly on the plain"
+ }
+}
